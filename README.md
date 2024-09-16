@@ -29,7 +29,7 @@ The StringCalculator is a console application designed to perform mathematical o
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/StringCalculator.git
+    git clone https://github.com/KevSoftCode/StringCalculator.git
     cd StringCalculator
     ```
 
